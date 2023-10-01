@@ -12,3 +12,4 @@
 |Krishay Nair|[krishaynair](https://github.com/KrishayNair) | Coding, Drawing | Leaning... |
 | Kalki V          |      [Kalki2706](https://github.com/Kalki2706)      |                Coding, Designing |  Consistent |
 |Parmesh Bhatt|[Parmesh Bhatt](https://github.com/Parmesh119)            | Coding, open-sourcec, Cricket    | Learner |
+|sankalp kumar|[sankalp kumar](https://github.com/sankalp475)            | Coding, open-sourcec, Cricket    | Learner |
